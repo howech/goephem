@@ -2,7 +2,6 @@
 // polynomial interpolations.
 package chebyshev
 
-//import "math"
 
 // Chephshev interpolating polynomials are represented as a slice of
 // float64s representing the coefficients of the orthogonal
